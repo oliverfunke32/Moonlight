@@ -3,5 +3,6 @@
 public enum Currency
 {
     USD = 1,
-    EUR = 2
+    EUR = 2,
+    SEK = 3
 }
